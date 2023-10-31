@@ -1,5 +1,5 @@
 ## Привет 👋, меня зовут Александр.
-[![Linkedin Badge](https://img.shields.io/badge/-Alexander_Ivanchenko-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alexanderivanchenkopd/)](https://www.linkedin.com/in/alexanderivanchenkopd/) [![Github Badge](https://img.shields.io/badge/-Alexander_Ivanchenko-grey?style=flat&logo=github&logoColor=white&link=https://github.com/xKapellMeisterx)](https://github.com/xKapellMeisterx) <p align='left'>
+[![Linkedin Badge](https://img.shields.io/badge/-Alexander-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alexanderivanchenkopd/)](https://www.linkedin.com/in/alexanderivanchenkopd/) [![Github Badge](https://img.shields.io/badge/-Alexander-grey?style=flat&logo=github&logoColor=white&link=https://github.com/xKapellMeisterx)](https://github.com/xKapellMeisterx) <p align='left'>
 
 <p align='left'>Стек технологий:</p>
 
