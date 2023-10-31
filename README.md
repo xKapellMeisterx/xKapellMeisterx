@@ -1,5 +1,4 @@
-## Привет 👋, меня зовут Александр Иванченко.
-[![Gmail Badge](https://img.shields.io/badge/-xKapellMeisterx@yandex.ru-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:xKapellMeisterx@yandex.ru)](mailto:xKapellMeisterx@yandex.ru) 
+## Привет 👋, меня зовут Александр.
 [![Linkedin Badge](https://img.shields.io/badge/-Alexander_Ivanchenko-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alexanderivanchenkopd/)](https://www.linkedin.com/in/alexanderivanchenkopd/) [![Github Badge](https://img.shields.io/badge/-Alexander_Ivanchenko-grey?style=flat&logo=github&logoColor=white&link=https://github.com/xKapellMeisterx)](https://github.com/xKapellMeisterx) <p align='left'>
 
 <p align='left'>Стек технологий:</p>
